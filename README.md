@@ -1,35 +1,37 @@
 # To Do It
 
-Uma aplicação web simples para gerenciar suas tarefas diárias. Com o **"To Do It"**, você pode facilmente adicionar tarefas, marcá-las como concluídas, removê-las individualmente e até limpar toda a lista.
+A simple web application to manage your daily tasks. With **"To Do It"**, you can easily add tasks, mark them as completed, remove them individually, and even clear the entire list. Humanity really did invent infinite productivity tools to avoid doing the actual tasks. Remarkable species.
 
-Você pode acessá-la visitando: https://rafajdev.github.io/ToDoIt/.
+You can access it here: https://rafajdev.github.io/ToDoIt/
 
-## Funcionalidades
+## Features
 
-- **Adicionar tarefas**: Insira novas tarefas na sua lista de afazeres.  
-- **Marcar como concluída**: Marque as tarefas que você já terminou.  
-- **Remover tarefas individualmente**: Exclua tarefas específicas da lista.  
-- **Limpar toda a lista**: Remova todas as tarefas de uma só vez.
+- **Add tasks**: Add new tasks to your to-do list.  
+- **Mark as completed**: Check off tasks you have already finished.  
+- **Remove tasks individually**: Delete specific tasks from the list.  
+- **Clear the entire list**: Remove all tasks at once.
 
-## Tecnologias Utilizadas
+## Technologies Used
 
 - HTML  
 - CSS  
 - JavaScript  
 - Vite  
 
-## Como Editar
+## How to Edit
 
-1. Clone este repositório na sua máquina local:
+1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/rafajdev/ToDoIt.git
+   ```
 
-2. Navegue até o diretório do projeto:
+2. Navigate to the project directory:
    ```bash
    cd ToDoIt
+   ```
 
-3. Abra o arquivo `index.html` para visualizar a aplicação.
+3. Open the `index.html` file to view the application.
 
-## Contato
+## Contact
 
-Para mais informações ou sugestões, sinta-se à vontade para entrar em contato: rafadeoliveiramendes@gmail.com.
+For more information or suggestions, feel free to get in touch: rafadeoliveiramendes@gmail.com.
